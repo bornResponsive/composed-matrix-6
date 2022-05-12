@@ -1,6 +1,6 @@
-wget https://matrix.squiz.net/__data/assets/file/0030/37965/matrix-6.15.0.tgz
+wget https://matrix.squiz.net/__data/assets/file/0030/37965/matrix-6.20.2.tgz
 mkdir source
-tar -xzf matrix-6.15.0.tgz -C source/
+tar -xzf matrix-6.20.2.tgz -C source/
 
 cd source/
 npm install
